@@ -1,6 +1,6 @@
 # Emulação de Rede – VLANs e ACLs no EVE-NG
 
-<img width="940" height="467" alt="Topologia" src="https://github.com/user-attachments/assets/49f60199-9159-428d-ab0e-55b1ffe6a475" />
+<img width="940" height="467" alt="Topologia" src="https://github.com/user-attachments/assets/68fe9723-bc08-42af-8f21-d21f5ca72667" />
 
 ### Descrição
 
