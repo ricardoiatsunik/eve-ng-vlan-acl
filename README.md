@@ -1,14 +1,14 @@
-# Segurança de Redes com EVE-NG
+# Segurança de Rede com EVE-NG
 
 <img width="940" height="467" alt="Topologia" src="https://github.com/user-attachments/assets/68fe9723-bc08-42af-8f21-d21f5ca72667" />
 
 ### Descrição
 
-Implementei uma topologia de rede segmentada em 3 VLANs e configurei o roteamento
+Criação de uma topologia de rede segmentada em 3 VLANs, roteamento
 inter-VLAN em um roteador Cisco com listas de acesso (ACLs) para aplicar políticas de
-segurança, bloqueando tráfego não autorizado entre os segmentos de rede e controlando
-o acesso à internet. O projeto teve como objetivo praticar os princípios de segmentação
-de rede e controle de acesso de privilégio mínimo.
+segurança, bloqueando tráfego não autorizado entre os segmentos e controlando
+o acesso à internet. O projeto teve como objetivo **praticar os princípios de segmentação
+de rede e controle de acesso de privilégio mínimo**.
 
 ---
 
