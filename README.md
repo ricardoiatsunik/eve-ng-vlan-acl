@@ -4,7 +4,7 @@
 
 ### Descrição
 
-Criação de uma topologia de rede segmentada em 3 VLANs, roteamento
+Implementação de uma topologia de rede segmentada em 3 VLANs, roteamento
 inter-VLAN em um roteador Cisco com listas de acesso (ACLs) para aplicar políticas de
 segurança, bloqueando tráfego não autorizado entre os segmentos e controlando
 o acesso à internet. O projeto teve como objetivo **praticar os princípios de segmentação
